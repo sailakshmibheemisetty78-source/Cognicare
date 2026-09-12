@@ -1,4 +1,4 @@
-# NeuroNortheast - Cognitive Gaming & Memory Assistance Platform
+# Cognicare - Cognitive Gaming & Memory Assistance Platform
 
 **Problem Statement:** AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in North Eastern Region (NER).
 
@@ -229,7 +229,7 @@ CMD ["npm", "run", "preview"]
 
 ## 📄 License
 
-This project is part of the Smart India Hackathon (SIH) 2024. All rights reserved.
+This project is part of the Smart India Hackathon (SIH) 2026. All rights reserved.
 
 ---
 
@@ -241,4 +241,4 @@ This project is part of the Smart India Hackathon (SIH) 2024. All rights reserve
 
 ## 📞 Support & Feedback
 
-For issues, suggestions, or feedback, please open a GitHub issue or contact the development team.
+For issues, suggestions, or feedback, please open a GitHub issue or contact the development team , mail:sailakshmibheemisetty78@gmail.com.
