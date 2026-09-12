@@ -8,8 +8,8 @@ This prototype is a React + Vite web application built specifically with dementi
 - **Offline-First Design:** For the hackathon MVP, state is managed locally via React Context and `localStorage`. In a real-world scenario, this will map to SQLite/Room for local device storage, syncing to Firebase/Supabase only when an internet connection is available (crucial for remote NER areas).
 - **Voice AI:** Currently utilizes the native browser `Web Speech API` (SpeechRecognition and SpeechSynthesis) for free, on-device NLP. Post-hackathon, this module is structured to be easily swapped with the **Govt of India Bhashini API** for robust Assamese/Bodo/Manipuri translation and voice processing.
 
-##Technical Approach  
-              ELDERLY USER
+##Technical Approach 
+**             ELDERLY USER
                    ↓
         ┌────────────────────┐
         │ Mobile/Web App     │
@@ -38,6 +38,7 @@ This prototype is a React + Vite web application built specifically with dementi
 
 ##AI Personalization Flow
 
+**
 User plays game
        ↓
 Performance collected
